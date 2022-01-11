@@ -1,4 +1,4 @@
-### Hi there I'm Pedro! :wave
+### Hi there I'm Pedro! :wave:
 
 Welcome to my GitHub profile, the place where I explore coding :smiley:
 I'm a developer with a taste for ramen and table top war gaming :rocket:  
