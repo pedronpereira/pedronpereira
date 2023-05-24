@@ -5,13 +5,14 @@ I'm a developer with a taste for ramen and table top war gaming :rocket:
 
 Currently working a lot with:
 
-* :coffee: C#
-* :telescope: AWS
+* :coffee: Go
+* ☁️ Google Cloud
+* ⚙️K8s
 
- :golf: **Goals for 2022**
+ :golf: **Goals for 2023**
 
 * [ ] learn more about :telescope: Go
-* [ ] Finish AdventOfCode 2021 and 2022 :crystal_ball:
+* [ ] Finish AdventOfCode 2021 and 2022 ... and 2023! :crystal_ball:
 * [ ] Contribute more to open source
 
 :link: **Connect with me**
