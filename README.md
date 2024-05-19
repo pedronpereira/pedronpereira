@@ -1,19 +1,19 @@
 ### Hi there I'm Pedro! :wave:
 
 Welcome to my GitHub profile, the place where I explore coding :smiley:
+That's me on the photo a loooong time ago! When PC Tools was a thing :)
 I'm a developer with a taste for ramen and table top war gaming :rocket:  
 
 Currently working a lot with:
 
-* :coffee: Go
-* ☁️ Google Cloud
+* :coffee: Blazor
+* ☁️ Azure
 * ⚙️K8s
 
- :golf: **Goals for 2023**
+ :golf: **Goals for 2024**
 
-* [ ] learn more about :telescope: Go
-* [ ] Finish AdventOfCode 2021 and 2022 ... and 2023! :crystal_ball:
-* [ ] Contribute more to open source
+* [ ] learn more about :telescope: Blazor
+* [ ] Add K8s to my projects.
 
 :link: **Connect with me**
 
