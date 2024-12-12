@@ -1,19 +1,20 @@
 ### Hi there I'm Pedro! :wave:
 
-Welcome to my GitHub profile, the place where I explore coding :smiley:
+Welcome to the place where I explore coding :smiley:
 That's me on the photo a loooong time ago! When PC Tools was a thing :)
-I'm a developer with a taste for ramen and table top war gaming :rocket:  
+I'm a developer with a taste for ramen and table top war gaming :rocket: : game_die :
 
 Currently working a lot with:
 
-* :coffee: Blazor
+* :coffee:
+* htmx and Go
+* Blazor (and c#)
 * ☁️ Azure
 * ⚙️K8s
 
- :golf: **Goals for 2024**
+ :golf: **Goals for 2025**
 
-* [ ] learn more about :telescope: Blazor
-* [ ] Add K8s to my projects.
+* [ ] To be defined and it involves htmx for sure
 
 :link: **Connect with me**
 
