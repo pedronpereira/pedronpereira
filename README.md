@@ -2,7 +2,7 @@
 
 Welcome to the place where I explore coding :smiley:
 That's me on the photo a loooong time ago! When PC Tools was a thing :)
-I'm a developer with a taste for ramen and table top war gaming :rocket: : game_die :
+I'm a developer with a taste for ramen and table top war gaming :rocket:
 
 Currently working a lot with:
 
